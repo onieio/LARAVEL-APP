@@ -1,0 +1,9 @@
+testline1
+
+
+nothing
+
+-first commit
+
+
+after commit
